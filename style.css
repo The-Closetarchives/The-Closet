@@ -958,27 +958,27 @@ margin-bottom: 10px;
 
 }
 
-.archive-card{
+.homearchive-card{
 
     padding:28px 0;
     border-bottom:1px solid rgba(255,255,255,.12);
 
 }
 
-.archive-card:last-child{
+.homearchive-card:last-child{
 
     border-bottom:none;
 
 }
 
-.archive-card h3{
+.homearchive-card h3{
 
     font-size:1.4rem;
     margin-bottom:12px;
 
 }
 
-.archive-card p{
+.homearchive-card p{
 
     font-size:1.08rem;
     line-height:1.9;
@@ -986,7 +986,7 @@ margin-bottom: 10px;
 
 }
 
-.archive-card a{
+.homearchive-card a{
 
     text-decoration:none;
     color:#d8d8d8;
@@ -994,7 +994,7 @@ margin-bottom: 10px;
 
 }
 
-.archive-card a:hover{
+.homearchive-card a:hover{
 
     letter-spacing:1px;
     color:white;
